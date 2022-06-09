@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in AI, Blockchain and IOT
-- 🌱 I’m currently learning Flutter, Solidity, Rust, Python
+- 🌱 I’m currently learning Flutter, Solidity, Rust, Python and Web Development
 - 💞️ I’m looking to collaborate on any project about Web3 or AI
 
 <!---
