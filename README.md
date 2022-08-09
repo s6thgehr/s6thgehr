@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Thomas
+- 👋 Hi, I’m Thomas. A physicist and economist by training, a software developer by passion.
 - 👀 I’m interested in AI, Blockchain and IOT
-- 🌱 I’m currently learning Flutter, Solidity, Rust, Python and Web Development
-- 💞️ I’m looking to collaborate on any project about Web3 or AI
+- 🌱 I’m always curious to learn new things. 
+
 
 <!---
 s6thgehr/s6thgehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
